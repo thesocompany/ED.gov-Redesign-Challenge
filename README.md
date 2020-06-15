@@ -43,4 +43,16 @@ Because this is a prototype rather than a fully developed website, these Adobe X
 We developed a research plan [(link)](https://github.com/thesocompany/ED.gov-Redesign-Challenge/blob/master/user-research/research-plan/researchPlan-06012020.pdf) that included conducting an information architecture audit, conducting three direct interviews, and creating personas and stories [(link)](https://github.com/thesocompany/ED.gov-Redesign-Challenge/blob/master/user-research/user-stories/userPersonasJourneys-06082020.pdf). We also have post-MVP research procedures if we are selected for this redesign. Our research plan indicated three essential user types for ed.gov: teachers and school staff, parents, and applying college students. Based on web search data collected from data.analytics.gov, from June 3 to June 8, we discovered top site visits for subdomains were nces.ed.gov and eric.ed.gov, and the latest CARES Act information. We used this data point  for our information architecture audit on content strategy and proceeded with directed interviews to understand the current pain points of our identified audiences. 
 
 From our So Company research groups, we gathered three key participants for our directed interview. All signed our user consent forms for participation. The directed interview had questions aimed at:
-understanding the intended objectives of our user personas with the current information on ed.gov,
+1. understanding the intended objectives of our user personas with the current information on ed.gov,
+2. identifying current user journeys, and
+3. developing user empathy in our redesign.
+
+Highlights from our directed interviews included:
+- “Information isn’t laid out in any sort of organic, or simplified manner. Have to go through scattered blocks of text and hyperlinks to figure out which one is going to get me close to what I want....Why would you not have COVID-19 messaging featured on the page - instead of a little picture you have to scroll down for? Then I get sent to just another random list of links? Seems like the department doesn't consider public health a concern, especially since most parents are trying to deal with schools being potential hotbeds for infection.” —Parent, 32 
+- “I am surprised that you can’t even access IDEA information on this website through the search feature. I think that is a major failure of this website. ... Yes, there is not K-12 information easily broken down into its own part of the website with resources for parents and teachers linked and outlined.” —Middle School Teacher, 30
+- “It’s not particularly engaging, which is fine for a website that mainly exists as a conduit to information - but it doesn’t feel particularly optimized for that either. Perhaps. I think I’m more likely to directly go to the websites that ed.gov connects you to. I could proceed straight to studentaid.gov or fafsa.ed.gov from a google search without interacting with the main page at ed.gov.”—Applying Graduate Student, 27 
+ 
+
+### Navigation and Site Layout
+
+![existing navigation](product-design/wireframes/Existing Navigation.png)
