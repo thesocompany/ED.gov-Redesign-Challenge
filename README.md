@@ -55,4 +55,4 @@ Highlights from our directed interviews included:
 
 ### Navigation and Site Layout
 
-![existing navigation](product-design/wireframes/Existing Navigation.png)
+![existing navigation](https://github.com/thesocompany/ED.gov-Redesign-Challenge/blob/master/product-design/wireframes/Existing%20Navigation.png)
