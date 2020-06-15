@@ -57,7 +57,6 @@ Highlights from our directed interviews included:
 
 ![existing navigation](https://github.com/thesocompany/ED.gov-Redesign-Challenge/blob/master/product-design/wireframes/Existing%20Navigation.png)
 
-![redesign navigation](https://github.com/thesocompany/ED.gov-Redesign-Challenge/blob/master/product-design/wireframes/Redesign%20navigation.png)
 
 *Existing ed.gov navigation*
 
@@ -66,3 +65,5 @@ The current navigation has many levels, and sometimes information is difficult t
 With this and user research in hand, TSC’s first major innovation for ed.gov is the use of a drop-down menu navigation system that organizes information based on user persona. One user interview confirmed the necessity of this technique by specifically suggesting it, unprompted. Our easy-to-navigate interface ensures that each user will find the kind of information most important to them.
 
 In combination with the drop-down menus, we also created a left navigation bar for more specific subject exploration. This left navigation is highly specific to the subject matter and functions in a simulated “step-by-step” manner. View the [grants page](http://edgov-site.s3-website.us-east-2.amazonaws.com/student/grants/federal-work-study/) to see this functionality. 
+
+![redesign navigation](https://github.com/thesocompany/ED.gov-Redesign-Challenge/blob/master/product-design/wireframes/Redesign%20navigation.png)
