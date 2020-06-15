@@ -89,3 +89,19 @@ As you can see below, the actual color styles of the current ed.gov design have 
 The existing ed.gov typography system suffers from the same large variety and disconnected design. Again, TSC created a cohesive system, in this case utilizing USWDS fonts: Public Sans for the majority of uses including navigation and body text, and Merriweather for titles and headers. 
 
 Public Sans is an open-source sans serif typeface designed and maintained by USWDS and derived from Libre Franklin. It has a plain, straightforward style, appropriate for interfaces and running text. Its large x-height makes it legible at small sizes, and it features a broad range of weights. These features make it a strong, neutral, principles-driven typeface for text or display based on a traditional American form.
+
+![existing ed.gov colors](https://github.com/thesocompany/ED.gov-Redesign-Challenge/blob/master/product-design/design-files/style%20guide/Original%20Fonts.png)
+*Existing ed.gov typography*
+
+![existing ed.gov colors](https://github.com/thesocompany/ED.gov-Redesign-Challenge/blob/master/product-design/design-files/style%20guide/Redesign%20Fonts.png)
+*TSC’s redesigned ed.gov typography*
+
+Merriweather is an open-source serif typeface designed for on-screen reading. The combination of thin and thick weights gives the typeface stylistic range while conveying a desirable mix of classic, yet modern, simplicity. Merriweather communicates warmth and credibility at both large and small font sizes.
+
+Public Sans is a highly versatile typeface that TSC utilized as the main font throughout the website. Merriweather is used for titles to create an interest while maintaining readability and consistency throughout the design. By choosing these fonts, we gained built-in 508 accessibility compliance. 
+
+### Imagery
+Images are great for supporting any related content on a webpage; however, they lack scalability. If a web design showcases an image for a specific part of the design, chances are you will have to supply multiple resolutions of that image to adhere to most devices. Icons, on the other hand, communicate meaning in a graphical user interface while supporting scalability, a modern aesthetic, and consistent styling. 
+You will also notice that on websites modernized by USDS and USWDS’s standards that pictures and videos are a rarity. This is often done to keep the designs clean, visuals consistent, and content editable as information changes. 
+
+As ed.gov content is often informative, TSC’s Team determined that an icon-based strategy would be more appropriate. We did provide one image on the home page, a hero image, to provide an exciting visual at the introduction of the site. We also choose to use a pattern-based image, as this strategy is optimal for all device sizes. 
