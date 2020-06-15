@@ -178,3 +178,38 @@ When content is published in Drupal, the Next.js React front end will retrieve t
 
 Ed.gov content producers will maintain content with the “headless” Drupal installation, using its standard content management administrative user interface. Aside from the differences in publishing a website, where you can have a Drupal front end, in our “headless” proposal, content producers would encounter a standard setup familiar to regular Drupal users.
 
+![write once, read anywhere chart](https://github.com/thesocompany/ED.gov-Redesign-Challenge/blob/master/devops/write%20once%20chart.png)
+
+Content will be distributed via Drupal’s API in a “raw” format (using the standard web serialization format JSON) and consumed by Next.js React for transformation into formatted HTML and eventual distribution as the public website. Access to raw, unformatted content through the API gives ed.gov flexibility to deploy content to other target platforms, including future native mobile applications. 
+
+This setup is flexible and has the ability to support all operating systems, browsers, and screen sizes.
+
+
+### The Prototype
+The prototype utilizes USWDS design system components executed with static HTML and Javascript for the header and navigation and displaying the page layout and content in an XD file embedded in an iframe.
+
+## Our Process
+The So Company Team methodology focuses on Agile and human-centered design. Here is an overview of our process for implementing a project such as ed.gov redesign and development.
+
+### Coordinate kick-off meeting with stakeholders
+The Team begins each project with a collaborative kick-off meeting with stakeholders, including the product owner and other stakeholders who bring an understanding of the needs of the product as well as broader processes and technical environments. The Team comes to this meeting prepared with an understanding of the product needs as defined in the initial product request, as well as a curated list of questions from Team members to begin the conversation of uncovering the bigger picture and underlying needs, offline processes, and risks. The Team further asks for additional stakeholders and end user groups who will use or be impacted by the product in order to begin deeper discovery efforts.
+
+### Define product charter
+Informed by the kick-off conversation, the Team works to create a clear and succinct problem statement along with a product charter outlining the product’s vision, scope, objectives, budget, risks, milestones, key stakeholders, and end users. The Team collaborates with the product owner and key stakeholders to ensure alignment on the charter as the product’s “north star.”
+
+
+### Define roles and responsibilities
+In alignment with USDS Play #6 (Assign one leader and hold that person accountable), the Team ensures that roles and responsibilities are clear to everyone from the start, including all Team members and stakeholders. The Team assigns one main product manager from The So Company to be responsible for the Team’s delivery of a product solution, and works with the client to identify and agree on a product owner on the client side who is invested with the authority to make decisions.
+
+
+### Create discovery report
+In alignment with USDS Play #1 (Understand what people need) and Play #2 (Address the whole experience, from start to finish), the Team engages in an initial discovery and framing stage. This involves:
+- Additional stakeholder interviews, with directed product questions, to better understand all of the potential online and offline interactions a user may have with the product, pain points in the current process and interactions, and other products or services that may be intertwined with the product of focus. All user interviews and user testing are conducted with signed consent forms and acknowledgment from participants.  
+- Review and assessment of technological or legislative constraints to set metrics and goals. 
+- Review of available analytics for current and legacy systems and products.
+- Development of a clear and comprehensive user research plan. 
+
+### Refinement and design
+- **Engage in UX research activities to deepen understanding of the problem we’re solving**:** Aligning with USDS Plays #1 and #2, the Team works in collaboration with the client product owner to create a comprehensive user research plan. The Team tailors research activities to the scope of product needs. Informed by UX research activities, the Team works to build personas, journey maps, and additional artifacts to help lead design activities and keep everyone focused on user-centered needs and goals.
+- **Generate and prioritize solutions through co-creation labs, prototyping, and rapid testing**: From the results of user research activities and insights, the Team works to rapidly iterate on design solutions, collaborating closely with stakeholders and users throughout the design process. The Team tailors design activities to the needs of each specific product and syncs continuously with content and development teams to prevent information bottleneck. 
+- **Develop compelling user stories and new product user flows**: Throughout the design phase, the Team collects insights from stakeholders to build out a fluid user story map 
