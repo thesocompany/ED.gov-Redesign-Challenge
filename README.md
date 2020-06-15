@@ -37,7 +37,7 @@ This prototype was designed in Adobe XD and deployed to an AWS site within an if
 
 Because this is a prototype rather than a fully developed website, these Adobe XD designs are not mobile responsive. However, we have designed a responsive strategy, linked above. Please note that these designs do not have the same full clickable functionality as the desktop designs, as they are meant simply to serve as an example of mobile responsiveness. 
 
-*Link to Video*
+TSC also created [a short video](https://www.loom.com/share/77f9589c0547441bb8a23abc8d7b37fa) to assist in explaining our submission and documentation. 
 
 ### Research Plan 
 We developed a research plan [(link)](https://github.com/thesocompany/ED.gov-Redesign-Challenge/blob/master/user-research/research-plan/researchPlan-06012020.pdf) that included conducting an information architecture audit, conducting three direct interviews, and creating personas and stories [(link)](https://github.com/thesocompany/ED.gov-Redesign-Challenge/blob/master/user-research/user-stories/userPersonasJourneys-06082020.pdf). We also have post-MVP research procedures if we are selected for this redesign. Our research plan indicated three essential user types for ed.gov: teachers and school staff, parents, and applying college students. Based on web search data collected from data.analytics.gov, from June 3 to June 8, we discovered top site visits for subdomains were nces.ed.gov and eric.ed.gov, and the latest CARES Act information. We used this data point  for our information architecture audit on content strategy and proceeded with directed interviews to understand the current pain points of our identified audiences. 
