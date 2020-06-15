@@ -225,3 +225,5 @@ We approach a new product with a plan that addresses the whole experience, from 
 
 ## Conclusion
 The Company Team submits this interactive prototype for a redesign of ed.gov. Our submission is a creative redesign that maximizes user experience and proposes new innovations in layout, typography, illustration, and photography, and other modern advances. We also consent to the challenge Official Rules, Terms, and Conditions. 
+
+<p><a href="http://edgov-site.s3-website.us-east-2.amazonaws.com/contact/">link name</a>{:target=&quot;_blank&quot;}</p>
