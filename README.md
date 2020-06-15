@@ -105,3 +105,26 @@ Images are great for supporting any related content on a webpage; however, they 
 You will also notice that on websites modernized by USDS and USWDS’s standards that pictures and videos are a rarity. This is often done to keep the designs clean, visuals consistent, and content editable as information changes. 
 
 As ed.gov content is often informative, TSC’s Team determined that an icon-based strategy would be more appropriate. We did provide one image on the home page, a hero image, to provide an exciting visual at the introduction of the site. We also choose to use a pattern-based image, as this strategy is optimal for all device sizes. 
+
+### Page Strategy
+In addition to the overall modernized redesign, TSC implemented specific innovations for each page. Below is an overview of these changes:
+- [Homepage](http://edgov-site.s3-website.us-east-2.amazonaws.com/)
+  + Reduced the number of links and repetitive information by reorganizing and utilizing a drop-down menu.
+  + Moved coronavirus information to an upper banner as our research showed it was the most visited page.
+- [Program office page](http://edgov-site.s3-website.us-east-2.amazonaws.com/contact/offices/)
+  + This existing page currently houses links rather than content. To eliminate this kind of page and reduce the number of visited pages, as is a best practice, we instead moved the linked content directly to the page.
+  + Most of the content is technical and legal. Due to the dense nature of such content, TSC placed these items into collapsible boxes for easier information absorption.
+- [Informational page](http://edgov-site.s3-website.us-east-2.amazonaws.com/student/student-loans/forgiveness/)
+  + This existing page currently houses links rather than content. To eliminate this kind of page and reduce the number of visited pages, as is a best practice, we instead moved these links into the drop-down and left navigations. 
+  + If links are required, they are contextualized and shown as buttons. 
+- [Grant page](http://edgov-site.s3-website.us-east-2.amazonaws.com/student/grants/federal-work-study/)
+  + Again, we chose to reduce the number of links and pages by moving the links to the drop-down and left navigation, and moving the content onto the single page. 
+  + TSC created a subway map to simply and visually explain a how-to process and lead users to the next step in the process.  
+- [Contact Page](http://edgov-site.s3-website.us-east-2.amazonaws.com/contact/)
+  + Our analysis of this page showed that much of this content should be moved to other pages found in the navigation drop-down menu. While content is not evaluated, we would like this page to show the value of proper information architecture.
+  + The specific location and phone number information is highlighted in blue for an easy-find experience. 
+- [News Page](http://edgov-site.s3-website.us-east-2.amazonaws.com/news/)
+  + Again, we choose to reduce the number of links and pages by moving the links to the drop-down and left navigation, and moving the content onto the single page.
+
+### 508 Accessibility
+The TSC Team utilized the USDWS design system to ensure inherent 508 accessibility compliance; this includes considerations in choice of fonts and colors. Any website utilizing this prototype template would require a full 508 audit before deployment.
