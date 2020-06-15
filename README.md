@@ -67,3 +67,25 @@ With this and user research in hand, TSC’s first major innovation for ed.gov i
 In combination with the drop-down menus, we also created a left navigation bar for more specific subject exploration. This left navigation is highly specific to the subject matter and functions in a simulated “step-by-step” manner. View the [grants page](http://edgov-site.s3-website.us-east-2.amazonaws.com/student/grants/federal-work-study/) to see this functionality. 
 
 ![redesign navigation](https://github.com/thesocompany/ED.gov-Redesign-Challenge/blob/master/product-design/wireframes/Redesign%20navigation.png)
+
+*Redesigned site navigation*
+
+To make this navigation innovation most effective, a full information architecture (IA) discovery, audit, and design process will be needed. IA is the structural design of shared information environments, the art and science of organizing and labeling websites, intranets, online communities, and software to support usability and findability. Typically, it involves a model or concept of information that is used and applied to activities which require explicit details of complex information systems. These activities include library systems implementation and database development. For this exercise the TSC Team did preliminary research and compiled a list for navigation menus which can be seen within the clickable prototype. 
+
+
+### Style
+The clickable prototype utilizes USWDS components styled to include the existing ED color scheme and seal. TSC’s discovery efforts revealed the current ed.gov design includes a large variety of colors and fonts, as can be seen in some of the below images. An important aspect of modern design is to utilize a streamlined style guide. 
+
+To this end, the TSC Team created a preliminary style guide utilizing greens and blues in a specific hue but a variety of tones. For fonts we choose Public Sans and Merriweather, both USWDS-approved fonts. 
+
+As you can see below, the actual color styles of the current ed.gov design have a large variety. This large range can lead to a feeling of a disconnected design. In an attempt to make a cohesive color system, TSC utilized the existing primary color scheme to create a three-tone green, blue, and neutral palette. 
+
+![existing ed.gov colors](https://github.com/thesocompany/ED.gov-Redesign-Challenge/blob/master/product-design/design-files/style%20guide/Original%20Color%20Scheme.png)
+*Existing ed.gov colors*
+
+![existing ed.gov colors](https://github.com/thesocompany/ED.gov-Redesign-Challenge/blob/master/product-design/design-files/style%20guide/Redesign%20Colors.png)
+*TSC’s redesigned ed.gov colors scheme*
+
+The existing ed.gov typography system suffers from the same large variety and disconnected design. Again, TSC created a cohesive system, in this case utilizing USWDS fonts: Public Sans for the majority of uses including navigation and body text, and Merriweather for titles and headers. 
+
+Public Sans is an open-source sans serif typeface designed and maintained by USWDS and derived from Libre Franklin. It has a plain, straightforward style, appropriate for interfaces and running text. Its large x-height makes it legible at small sizes, and it features a broad range of weights. These features make it a strong, neutral, principles-driven typeface for text or display based on a traditional American form.
