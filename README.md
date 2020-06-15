@@ -128,3 +128,53 @@ In addition to the overall modernized redesign, TSC implemented specific innovat
 
 ### 508 Accessibility
 The TSC Team utilized the USDWS design system to ensure inherent 508 accessibility compliance; this includes considerations in choice of fonts and colors. Any website utilizing this prototype template would require a full 508 audit before deployment.
+
+## Content
+### Information Architecture
+The key findings from our discovery and user persona research revealed that information architecture (IA) and menu structure for ed.gov can be greatly improved with more UX research and feedback. 
+
+The current IA of ed.gov has many broken links throughout the site or links that bring the user to unexpected content. There is a significant need for an audit to identify these issues. 
+
+A successful IA should be directed by a sound content strategy. IA is required to deliver the message quickly and communicate accurately. Users expect to easily understand, relate, and share information in any environment
+
+As stated about in the Navigation and Site Layout section, a full IA discovery, audit, and design process will be needed before any deployment of a new ed.gov website. 
+
+### Content Strategy Insights
+While content is not a consideration of this particular challenge, it is an important aspect of any website, especially one as information-driven as ed.gov. To this end TSC would like to offer some insights. 
+
+To design a reusable content model for ed.gov, a vendor must develop and document a
+content structure and style guide that can be built out in the publishing/authoring CMS
+environment to ensure consistency across all future ed.gov content (with enough flexibility to
+allow room for different types of content). Specifically, some suggested required elements would be: 
+- An editorial style guide and error messaging style/dictionary
+- A structured approach to applications (e.g., intro page > application > after you apply)
+- Content around tools, profile, dashboard, etc.
+- Static pages for all authenticated tools
+
+The content should be presented in a way that makes sense to the end user, because the
+content should be easy to digest. Ultimately, the goal is to present content to help users
+find what they need.
+
+### Plain Language
+TSC recommends end-to-end content strategy and management, including plain language writing and editing efforts. To assist this effort we also suggest the creation of a plain language content style guide. For our prototype, rather than create a full set of guidelines, we included content utilizing plain language best practices to illustrate the effectiveness of the strategy. 
+
+Some plain language content best practices to consider include:
+- Accuracy 
+- Consistency in editorial style (established via brand consolidation work) 
+- Feedback from users (via user experience research) 
+- SEO best practices
+
+## Tech Stack
+### Suggested Solution
+We understand that ED is looking to tie robust design and content to accessibility, work closely with administration and staff offices to drive change quickly, and ensure students and parents, press, educators and administrators, state and local officials, non-profit stakeholders, representatives from community organizations, and advocates all experience the direct impact of these efforts. In utilizing human-centered design as a core capability, we are striving to create a unified customer experience, delivering unparalleled tools and experiences for everyone ed.gov serves.
+
+Our solution is a "headless" CMS for content management and production, and a flexible and modern UI framework for the front end. 
+![headless cms chart](https://github.com/thesocompany/ED.gov-Redesign-Challenge/blob/master/devops/headless%20drupal%20chart.png)
+
+We propose continuing to use Drupal for the "headless" CMS and React via Next.js to serve the content. 
+
+React is a modern, fast, scalable, and simple open-source Javascript library that is used for building attractive user interfaces handling the view layer for web and mobile applications.
+When content is published in Drupal, the Next.js React front end will retrieve the content from the Drupal API and Next.js, which generates the static site for public access.
+
+Ed.gov content producers will maintain content with the “headless” Drupal installation, using its standard content management administrative user interface. Aside from the differences in publishing a website, where you can have a Drupal front end, in our “headless” proposal, content producers would encounter a standard setup familiar to regular Drupal users.
+
